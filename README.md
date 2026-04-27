@@ -3,7 +3,7 @@ Supply Chain Delivery Performance Project
 
 (Table of Contents)
 
-1. Executive Summary
+[1. Executive Summary
 2. Business Context & Objectives
 3. Key Performance Indicators (KPIs)
 4. Profitability Analysis
@@ -14,7 +14,9 @@ Supply Chain Delivery Performance Project
 7. Time-Based Delay Patterns
 8. Machine Learning Model Results
 9. Strategic Recommendations
-10. Conclusion
+10. Conclusion]
+
+
 
 
 1. Executive Summary
